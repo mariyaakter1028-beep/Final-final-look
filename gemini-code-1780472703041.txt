@@ -1,0 +1,29 @@
+panel-selling-site/
+│
+├── .env.example
+├── package.json
+├── server.js
+│
+├── middleware/
+│   └── auth.js
+│
+├── models/
+│   ├── User.js
+│   ├── Panel.js
+│   ├── Order.js
+│   └── Payment.js
+│
+└── public/
+    ├── css/
+    │   └── style.css
+    ├── js/
+    │   └── script.js
+    ├── index.html
+    ├── login.html
+    ├── signup.html
+    ├── panels.html
+    ├── orders.html
+    ├── payment.html
+    ├── profile.html
+    ├── support.html
+    └── admin.html
